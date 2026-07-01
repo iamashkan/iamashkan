@@ -1,64 +1,93 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ============================== HEADER ============================== -->
 <a href="https://iamashkan.github.io/portfolio/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:5E5CE6&height=200&section=header&text=Ashkan%20Aghamoali&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Researcher%20%C2%B7%20XR%20Developer%20%C2%B7%20Digital-Twin%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="Ashkan Aghamoali"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:5E5CE6&height=210&section=header&text=Ashkan%20Aghamoali&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Researcher%20%C2%B7%20XR%20Developer%20%C2%B7%20Published%20in%20the%20Royal%20Society%20Interface&descSize=17&descAlignY=58&animation=fadeIn" alt="Ashkan Aghamoali"/>
 </a>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=5E5CE6&center=true&vCenter=true&width=780&lines=Digital+twins+for+the+circular+economy;Turning+industrial+scrap+into+recovered+value;Giving+the+physical+world+a+queryable+mirror;Spatial+computing+%C2%B7+robotics+%C2%B7+applied+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=5E5CE6&center=true&vCenter=true&width=820&lines=Researcher+%40+Mechanical+Intelligence+Lab%2C+LSBU;Where+biomimetics+meets+deep+learning+%26+FEA;Digital+twins+for+the+circular+economy;Giving+the+physical+world+a+queryable+mirror" alt="Typing SVG" />
 </a>
 
 <br/>
 
+<a href="https://www.researchgate.net/profile/Ashkan-Aghamoali"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
 <a href="https://www.linkedin.com/in/ashkan-aghamoali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://iamashkan.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:ashkaan.aghamoali@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=iamashkan&style=for-the-badge&color=5E5CE6&label=PROFILE+VIEWS" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=iamashkan&style=for-the-badge&color=5E5CE6&label=VIEWS" alt="views"/>
 
 </div>
 
 ---
 
-### 🧭 The Big Picture
+### `$ ashkan --whoami`
 
-I'm an **AI Researcher & XR Developer** at the **Mechanical Intelligence Lab, London South Bank University**, building **living digital twins** that connect the physical and digital worlds. My work sits where **computer vision, robotics, and immersive AR/VR** meet a single mission: making industrial systems **greener, smarter, and measurable** — recovering value from what the world currently throws away.
+```python
+class AshkanAghamoali:
+    """AI Researcher · XR Developer · Published Author"""
 
-> **Design philosophy — *simulation-first, hardware-ready.*** Every project runs end-to-end in simulation on a laptop, yet is architected so mock data and virtual robots can be swapped for **real sensors and physical hardware without changing a single interface.**
+    def __init__(self):
+        self.affiliation = "Mechanical Intelligence (MI) Research Group — LSBU"
+        self.based_in    = "Dubai, UAE"
+        self.education    = "M.Sc. Digital Electronic Systems"
+        self.research     = ["biomimetics", "digital twins",
+                             "generative design", "computer vision"]
+        self.stack        = ["Python", "Swift", "C#", "PyTorch", "Unity", "ROS 2"]
+        self.philosophy   = "simulation-first, hardware-ready"
 
----
+    def current_focus(self) -> list[str]:
+        return [
+            "Turning industrial scrap into recovered value  (Re-X digital twins)",
+            "Making the physical world queryable  (ARKit + on-device ML)",
+            "Bio-inspired structures optimized by  FEA → deep learning → GA",
+        ]
 
-### 🔬 What I Build
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**♻️ Circular-Economy Twins**
-
-Robotic **Re-X** cells (Reuse · Repair · Recycle) that inspect, grade, and sort end-of-life motors & batteries back into value.
-
-</td>
-<td width="33%" valign="top">
-
-**📡 Spatial Computing**
-
-Turning an **iPhone into an industrial scanner** — ARKit + RoomPlan + on-device Core ML that build queryable 3D twins of real spaces.
-
-</td>
-<td width="33%" valign="top">
-
-**🧠 Applied ML / CV**
-
-Defect detection, semantic segmentation, and Grad-CAM localization that drive **automated triage decisions**.
-
-</td>
-</tr>
-</table>
+    def collaborators(self):
+        return ["MI Research Group (LSBU)", "Prof. Stanislav Gorb (Kiel Uni)"]
+```
 
 ---
 
-### 🚀 Flagship Work
+### 📚 Peer-Reviewed Research &nbsp;·&nbsp; *equal-contributing author on both*
+
+**1 · The Rise of Metaverse Manufacturing** — *towards a universal, sustainable & bioinspired industrial ecosystem*
+
+<a href="https://doi.org/10.1098/rsif.2025.0480"><img src="https://img.shields.io/badge/J.%20R.%20Soc.%20Interface-2026-C7254E?style=flat-square" alt="venue"/></a>
+<a href="https://doi.org/10.1098/rsif.2025.0480"><img src="https://img.shields.io/badge/DOI-10.1098%2Frsif.2025.0480-1B72E8?style=flat-square" alt="doi"/></a>
+
+> Eraghi, Toofani, **Aghamoali**, Zoroufi, Shafaghi, Jafari, Goel, Rajabi · *Journal of the Royal Society Interface* **23**, 20250480
+> A framework uniting **complex adaptive systems**, **digital twins**, **XR**, **AI** and **biomimetics** into a sustainable Industry 5.0 manufacturing ecosystem aligned with the UN SDGs.
+
+**2 · One to Many: An Intelligent Biomimetic Design Framework for Functional Diversification**
+
+<img src="https://img.shields.io/badge/Generative%20Design-5E5CE6?style=flat-square" alt="t"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square" alt="t"/>
+<img src="https://img.shields.io/badge/FEA-009688?style=flat-square" alt="t"/>
+<img src="https://img.shields.io/badge/Soft%20Robotics-FF6B00?style=flat-square" alt="t"/>
+
+> Toofani, Eraghi, **Aghamoali**, Zoroufi, Khaheshi, Basti, **Gorb**, Rajabi · MI Research Group (LSBU) × Kiel University
+> Spider-*sigillae*-inspired **"plate-pillar"** structures → high-throughput **FEA of ~900 variants** → **deep-neural-network** surrogate models → **multi-objective genetic-algorithm** generative design → a compliant hinge, mechanical joint, tunable springs & an adaptive soft gripper — delivered as an interactive **AR "Meta-Article."**
+
+---
+
+### 🧬 How my research becomes code
+
+```mermaid
+flowchart LR
+    A["🕷️ Biological<br/>inspiration"] --> B["⚙️ Parametric<br/>CAD model"]
+    B --> C["🔬 High-throughput<br/>FEA · ~900 variants"]
+    C --> D["🧠 Deep-learning<br/>surrogate model"]
+    D --> E["🧬 Multi-objective<br/>genetic algorithm"]
+    E --> F["✨ Generative<br/>designs"]
+    F --> G["📱 AR Meta-Article<br/>+ Digital Twins"]
+    classDef n fill:#5E5CE6,stroke:#0A66C2,color:#fff,rx:6,ry:6;
+    class A,B,C,D,E,F,G n;
+```
+
+---
+
+### 🚀 Flagship Engineering
 
 <details open>
 <summary><b>♻️ &nbsp;Circular-Economy Digital Twins</b></summary>
@@ -67,7 +96,7 @@ Defect detection, semantic segmentation, and Grad-CAM localization that drive **
 | Project | What it does | Stack |
 |---|---|---|
 | [**UR5e Circular Motor Recovery**](https://github.com/iamashkan/UR5e-Circular-Motor-Recovery) | A UR5e cobot disassembles failed motors and sorts every part into Reuse / Repair / Replace / Recycle | `ROS 2 Jazzy` `MoveIt 2` `Gazebo` `Unity` |
-| [**Battery Sorting Digital Twin**](https://github.com/iamashkan/Battery-Sorting-in-Digital-Twin) | Operational control twin for a Dubai battery-recovery micro-factory, with digital product passports | `Unity` `FastAPI` `CV` `Streamlit` |
+| [**Battery Sorting Digital Twin**](https://github.com/iamashkan/Battery-Sorting-in-Digital-Twin) | Operational control twin for a battery-recovery micro-factory, with digital product passports | `Unity` `FastAPI` `CV` `Streamlit` |
 | [**Defect Inspection Twin**](https://github.com/iamashkan/defect-inspection-digital-twin) | PyTorch surface-defect CV + Grad-CAM heatmaps → structured recovery decision | `PyTorch` `OpenCV` `ROS 2` |
 | [**Re-X Inspection Twin**](https://github.com/iamashkan/re-x-inspection-digital-twin) | Inspection pipeline aligned to the RESCu-M2 research theme | `PyTorch` `Grad-CAM` `ROS 2` |
 
@@ -101,7 +130,7 @@ Defect detection, semantic segmentation, and Grad-CAM localization that drive **
 
 ### 🛠️ Tech Arsenal
 
-**Languages**  
+**Languages** &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -109,20 +138,22 @@ Defect detection, semantic segmentation, and Grad-CAM localization that drive **
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-**ML & Computer Vision**  
+**Research & ML** &nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Core ML](https://img.shields.io/badge/Core%20ML-0A84FF?style=flat-square&logo=apple&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![FEA](https://img.shields.io/badge/FEA%20%2F%20CAE-009688?style=flat-square)
+![Genetic Algorithms](https://img.shields.io/badge/Genetic%20Algorithms-5E5CE6?style=flat-square)
 
-**XR · 3D · Robotics**  
+**XR · 3D · Robotics** &nbsp;
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![ARKit](https://img.shields.io/badge/ARKit-000000?style=flat-square&logo=apple&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![MoveIt](https://img.shields.io/badge/MoveIt_2-0A7BBB?style=flat-square)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6B00?style=flat-square&logo=gazebo&logoColor=white)
 
-**Backend · Edge · Infra**  
+**Backend · Edge · Infra** &nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -132,7 +163,14 @@ Defect detection, semantic segmentation, and Grad-CAM localization that drive **
 
 ---
 
+<!-- ============================== SNAKE ============================== -->
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamashkan/iamashkan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamashkan/iamashkan/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/iamashkan/iamashkan/output/github-snake.svg" width="100%" />
+</picture>
 
 ### 📊 GitHub Activity
 
