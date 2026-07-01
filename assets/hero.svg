@@ -1,0 +1,48 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ashkan Aghamoali — AI Researcher, XR Developer, Published Researcher">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a0e17"/>
+      <stop offset="1" stop-color="#0e1424"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 70) rotate(90) scale(280)">
+      <stop stop-color="#5aa2ff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#5aa2ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowTeal" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 330) rotate(-60) scale(300)">
+      <stop stop-color="#46d6c4" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#46d6c4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="70" y1="0" x2="330" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5aa2ff"/>
+      <stop offset="0.5" stop-color="#46d6c4"/>
+      <stop offset="1" stop-color="#e0b25e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- card -->
+  <rect x="1" y="1" width="1198" height="338" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="20" fill="url(#glowBlue)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="20" fill="url(#glowTeal)"/>
+  <rect x="1.5" y="1.5" width="1197" height="337" rx="19.5" stroke="#ffffff" stroke-opacity="0.09"/>
+
+  <!-- subtle animated pulse on glow -->
+  <rect x="1" y="1" width="1198" height="338" rx="20" fill="url(#glowBlue)" opacity="0.6">
+    <animate attributeName="opacity" values="0.35;0.7;0.35" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- eyebrow -->
+  <text x="70" y="94" font-family="'SFMono-Regular', ui-monospace, 'Courier New', monospace" font-size="15" letter-spacing="3.5" fill="#98a2b6">MECHANICAL&#160;INTELLIGENCE&#160;RESEARCH&#160;GROUP&#160;&#160;·&#160;&#160;LSBU</text>
+  <rect x="70" y="112" width="120" height="3" rx="1.5" fill="url(#rule)"/>
+
+  <!-- name -->
+  <text x="68" y="186" font-family="Georgia, 'Times New Roman', 'Newsreader', serif" font-size="76" font-weight="600" fill="#eaeef6">Ashkan Aghamoali</text>
+
+  <!-- role line -->
+  <text x="70" y="232" font-family="system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="500">
+    <tspan fill="#5aa2ff">AI Researcher</tspan><tspan fill="#3a4356">&#160;&#160;·&#160;&#160;</tspan><tspan fill="#46d6c4">XR Developer</tspan><tspan fill="#3a4356">&#160;&#160;·&#160;&#160;</tspan><tspan fill="#e0b25e">Published Researcher</tspan>
+  </text>
+
+  <!-- tagline -->
+  <text x="70" y="276" font-family="Georgia, 'Newsreader', serif" font-style="italic" font-size="22" fill="#c4cbdb">Machine learning · bio-inspired structural design · immersive AR/VR.</text>
+  <text x="70" y="304" font-family="system-ui, Helvetica, Arial, sans-serif" font-size="16" fill="#98a2b6">Building computational models and interactive tools for engineering &amp; manufacturing.</text>
+</svg>
