@@ -136,12 +136,9 @@ Defect detection, semantic segmentation, and Grad-CAM localization that drive **
 
 ### 📊 GitHub Activity
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamashkan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=5E5CE6&icon_color=0A66C2" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamashkan&layout=compact&hide_border=true&langs_count=8&title_color=5E5CE6" alt="top langs"/>
+<img src="https://streak-stats.demolab.com/?user=iamashkan&hide_border=true&ring=5E5CE6&fire=EA4335&currStreakLabel=5E5CE6&sideLabels=5E5CE6" alt="streak" width="460"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iamashkan&hide_border=true&ring=5E5CE6&fire=EA4335&currStreakLabel=5E5CE6" alt="streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamashkan&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamashkan&bg_color=00000000&color=5E5CE6&line=0A66C2&point=0A66C2&area=true&area_color=5E5CE6&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" width="95%"/>
 
 </div>
 
