@@ -113,19 +113,13 @@ Immersive AR/VR tools for visualising simulations, FEA and parametric models —
 
 ---
 
-<!-- ============================ ACTIVITY ============================ -->
+<!-- ============================ FOOTER ============================ -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamashkan/iamashkan/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/iamashkan/iamashkan/output/github-snake.svg" width="100%" />
-</picture>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=iamashkan&hide_border=true&background=00000000&ring=5aa2ff&fire=e0b25e&currStreakLabel=5aa2ff&sideNums=46d6c4&sideLabels=46d6c4&dates=98a2b6&stroke=98a2b6&currStreakNum=eaeef6&dayLabels=98a2b6" alt="streak" width="460"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamashkan&bg_color=0a0e17&color=eaeef6&line=5aa2ff&point=46d6c4&area=true&area_color=5aa2ff&title_color=5aa2ff&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" width="95%"/>
-
 <sub>*“The best way to recover value from the physical world is to first give it a digital mind.”*</sub>
+
+<a href="https://iamashkan.github.io/portfolio/"><img src="https://img.shields.io/badge/Explore%20the%20full%20portfolio-5aa2ff?style=for-the-badge&logo=safari&logoColor=0a0e17" alt="Portfolio"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5aa2ff,100:46d6c4&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
