@@ -11,20 +11,9 @@
 
 </div>
 
-### `01` · About
-
-**AI Researcher & XR Developer** with the **Mechanical Intelligence Research Group** at London South Bank University (LSBU). My work sits at the intersection of **machine learning, bio-inspired structural design, and immersive AR/VR** — building computational models and interactive tools for engineering and manufacturing.
-
-- 🔬 &nbsp;I develop **Python automation around CAE / Abaqus** simulations, and train ML models to predict structural behaviour from large simulation datasets.
-- 🧬 &nbsp;I apply **optimization & sensitivity analysis** (FEA → deep learning → genetic algorithms) to drive bio-inspired design decisions.
-- 🕶️ &nbsp;I build **Extended Reality (AR/VR)** applications that visualise simulations, finite-element analysis and parametric models.
-- 🏅 &nbsp;Gold-medal-winning member of the **International Federation of Inventors' Associations (IFIA)**.
-
-<img src="https://img.shields.io/badge/-Bio--inspired%20design-0a0e17?style=flat-square&labelColor=0a0e17&color=5aa2ff" alt="t"/> <img src="https://img.shields.io/badge/-Machine%20learning-0a0e17?style=flat-square&labelColor=0a0e17&color=46d6c4" alt="t"/> <img src="https://img.shields.io/badge/-Extended%20Reality-0a0e17?style=flat-square&labelColor=0a0e17&color=e0b25e" alt="t"/> <img src="https://img.shields.io/badge/-Computer%20vision-0a0e17?style=flat-square&labelColor=0a0e17&color=5aa2ff" alt="t"/> <img src="https://img.shields.io/badge/-Sustainable%20manufacturing-0a0e17?style=flat-square&labelColor=0a0e17&color=46d6c4" alt="t"/>
-
 ---
 
-### `02` · Selected Code
+###  Selected Code
 
 <details open>
 <summary><b>♻️ &nbsp;Circular-Economy Digital Twins</b></summary>
