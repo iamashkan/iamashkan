@@ -24,39 +24,7 @@
 
 ---
 
-### `02` · Publications
-
-<img src="https://img.shields.io/badge/2026-5aa2ff?style=flat-square&labelColor=0a0e17" alt="2026"/> <img src="https://img.shields.io/badge/Published-46d6c4?style=flat-square&labelColor=0a0e17" alt="Published"/>
-&nbsp;**The Rise of Metaverse Manufacturing** — *Towards a Universal, Sustainable & Bioinspired Industrial Ecosystem*
-<br/>Eraghi, Toofani, **A. Aghamoali**, Zoroufi, Shafaghi, Jafari, Goel, Rajabi · *Journal of the Royal Society Interface*, vol. 23
-<br/>[![DOI](https://img.shields.io/badge/DOI-10.1098%2Frsif.2025.0480-0a0e17?style=flat-square&labelColor=0a0e17&color=5aa2ff)](https://doi.org/10.1098/rsif.2025.0480)
-
-<img src="https://img.shields.io/badge/2025-5aa2ff?style=flat-square&labelColor=0a0e17" alt="2025"/> <img src="https://img.shields.io/badge/In%20review-e0b25e?style=flat-square&labelColor=0a0e17" alt="In review"/>
-&nbsp;**One to Many: An Intelligent Biomimetic Design Framework for Functional Diversification**
-<br/>Toofani, Eraghi, **A. Aghamoali**, Zoroufi, Khaheshi, Basti, **Gorb**, Rajabi · Manuscript · MI Research Group, LSBU × Kiel University
-<br/><sub>Spider-*sigillae*-inspired *plate-pillar* structures → high-throughput FEA (~900 variants) → deep-neural-network surrogate models → multi-objective genetic-algorithm generative design → soft-robotic applications, delivered as an interactive AR "Meta-Article."</sub>
-
-<img src="https://img.shields.io/badge/2020-5aa2ff?style=flat-square&labelColor=0a0e17" alt="2020"/> <img src="https://img.shields.io/badge/Published-46d6c4?style=flat-square&labelColor=0a0e17" alt="Published"/>
-&nbsp;**Improvement of Camouflage Moving Target Detection in Video Sequences**
-<br/>**A. Aghamoali**, M. Nahvi · *Journal of Mathematical Modeling (JMM)*, University of Guilan
-
----
-
-### `03` · Extended Reality Work
-
-Immersive AR/VR tools for visualising simulations, FEA and parametric models — [explore the live demos on my portfolio ↗](https://iamashkan.github.io/portfolio/)
-
-| Demo | Focus |
-|---|---|
-| **Step-by-Step AR Explanation** | ![](https://img.shields.io/badge/-Visualisation-0a0e17?style=flat-square&color=5aa2ff&labelColor=0a0e17) |
-| **AR Co-bot Interface** · **Robotic Joint Visualisation** | ![](https://img.shields.io/badge/-Robotics%20in%20AR-0a0e17?style=flat-square&color=46d6c4&labelColor=0a0e17) |
-| **Bio-Inspired Structure in AR** | ![](https://img.shields.io/badge/-Bio--inspired-0a0e17?style=flat-square&color=e0b25e&labelColor=0a0e17) |
-| **Neural Network Prediction Interface** | ![](https://img.shields.io/badge/-ML%20in%20AR-0a0e17?style=flat-square&color=5aa2ff&labelColor=0a0e17) |
-| **Parametric Control Panel in AR** | ![](https://img.shields.io/badge/-Parametric-0a0e17?style=flat-square&color=46d6c4&labelColor=0a0e17) |
-
----
-
-### `04` · Selected Code
+### `02` · Selected Code
 
 <details open>
 <summary><b>♻️ &nbsp;Circular-Economy Digital Twins</b></summary>
@@ -93,33 +61,3 @@ Immersive AR/VR tools for visualising simulations, FEA and parametric models —
 | [**Market Price Bot**](https://github.com/iamashkan/CurrencyRateTelegramBot) | Serverless Telegram bot posting live FX / gold / crypto prices | `Cloudflare Workers` `JavaScript` |
 
 </details>
-
----
-
-### `05` · Experience & Education
-
-| | |
-|---|---|
-| 💼 | **AI Researcher / XR Developer** — Mechanical Intelligence Research Group, LSBU |
-| 🔬 | **Research Assistant** — bio-inspired design & simulation |
-| 🎓 | **MSc**, Digital Electronic Systems — University of Guilan |
-| 🎓 | **BSc**, Electrical & Electronics Engineering — University of Guilan |
-
----
-
-### `06` · Certifications
-
-<img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford-8C1515?style=flat-square" alt="c"/> <img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-DeepLearning.AI-0A2A66?style=flat-square" alt="c"/> <img src="https://img.shields.io/badge/Deep%20Neural%20Networks%20w%2F%20PyTorch-IBM-0f62fe?style=flat-square&logo=ibm&logoColor=white" alt="c"/> <img src="https://img.shields.io/badge/Unity%20Mobile%20AR%20Development-Unity-111317?style=flat-square&logo=unity&logoColor=white" alt="c"/> <img src="https://img.shields.io/badge/WebXR%20%26%20Unity%2FUnreal%20XR-U%20of%20Michigan-00274C?style=flat-square" alt="c"/> <img src="https://img.shields.io/badge/Digital%20Mfg.%20Technologies-U%20of%20Michigan-00274C?style=flat-square" alt="c"/> <img src="https://img.shields.io/badge/Inventor%20Gold%20Medal-IFIA-e0b25e?style=flat-square" alt="c"/>
-
----
-
-<!-- ============================ FOOTER ============================ -->
-<div align="center">
-
-<sub>*“The best way to recover value from the physical world is to first give it a digital mind.”*</sub>
-
-<a href="https://iamashkan.github.io/portfolio/"><img src="https://img.shields.io/badge/Explore%20the%20full%20portfolio-5aa2ff?style=for-the-badge&logo=safari&logoColor=0a0e17" alt="Portfolio"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5aa2ff,100:46d6c4&height=110&section=footer" width="100%" alt="footer"/>
-
-</div>
