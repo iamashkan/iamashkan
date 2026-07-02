@@ -2,20 +2,14 @@
 <div align="center">
 
 <a href="https://iamashkan.github.io/portfolio/">
-  <img src="https://raw.githubusercontent.com/iamashkan/iamashkan/main/assets/hero.svg" width="100%" alt="Ashkan Aghamoali — AI Researcher · XR Developer · Published Researcher"/>
+  <img src="https://raw.githubusercontent.com/iamashkan/iamashkan/main/assets/hero.svg" width="100%" alt="Ashkan Aghamoali — AI Researcher · XR Developer"/>
 </a>
 
 <br/>
 
-<a href="https://iamashkan.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-5aa2ff?style=for-the-badge&logo=safari&logoColor=0a0e17" alt="Portfolio"/></a>
-<a href="https://www.researchgate.net/profile/Ashkan-Aghamoali"><img src="https://img.shields.io/badge/ResearchGate-46d6c4?style=for-the-badge&logo=researchgate&logoColor=0a0e17" alt="ResearchGate"/></a>
-<a href="https://www.linkedin.com/in/ashkan-aghamoali/"><img src="https://img.shields.io/badge/LinkedIn-0a0e17?style=for-the-badge&logo=linkedin&logoColor=5aa2ff" alt="LinkedIn"/></a>
-<a href="mailto:ashkaan.aghamoali@gmail.com"><img src="https://img.shields.io/badge/Email-0a0e17?style=for-the-badge&logo=gmail&logoColor=e0b25e" alt="Email"/></a>
-<a href="https://raw.githubusercontent.com/iamashkan/portfolio/main/assets/Ashkan_Aghamoali_CV.pdf"><img src="https://img.shields.io/badge/CV-e0b25e?style=for-the-badge&logo=readdotcv&logoColor=1a1300" alt="CV"/></a>
+<a href="https://iamashkan.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-5aa2ff?style=for-the-badge&logo=safari&logoColor=0a0e17" alt="Portfolio"/></a> <a href="https://www.researchgate.net/profile/Ashkan-Aghamoali"><img src="https://img.shields.io/badge/ResearchGate-46d6c4?style=for-the-badge&logo=researchgate&logoColor=0a0e17" alt="ResearchGate"/></a> <a href="https://www.linkedin.com/in/ashkan-aghamoali/"><img src="https://img.shields.io/badge/LinkedIn-0a0e17?style=for-the-badge&logo=linkedin&logoColor=5aa2ff" alt="LinkedIn"/></a> <a href="mailto:ashkaan.aghamoali@gmail.com"><img src="https://img.shields.io/badge/Email-0a0e17?style=for-the-badge&logo=gmail&logoColor=e0b25e" alt="Email"/></a> <a href="https://raw.githubusercontent.com/iamashkan/portfolio/main/assets/Ashkan_Aghamoali_CV.pdf"><img src="https://img.shields.io/badge/CV-e0b25e?style=for-the-badge&logo=readdotcv&logoColor=1a1300" alt="CV"/></a>
 
 </div>
-
-<br/>
 
 ### `01` · About
 
@@ -26,11 +20,7 @@
 - 🕶️ &nbsp;I build **Extended Reality (AR/VR)** applications that visualise simulations, finite-element analysis and parametric models.
 - 🏅 &nbsp;Gold-medal-winning member of the **International Federation of Inventors' Associations (IFIA)**.
 
-<img src="https://img.shields.io/badge/-Bio--inspired%20design-0a0e17?style=flat-square&labelColor=0a0e17&color=5aa2ff" alt="t"/>
-<img src="https://img.shields.io/badge/-Machine%20learning-0a0e17?style=flat-square&labelColor=0a0e17&color=46d6c4" alt="t"/>
-<img src="https://img.shields.io/badge/-Extended%20Reality-0a0e17?style=flat-square&labelColor=0a0e17&color=e0b25e" alt="t"/>
-<img src="https://img.shields.io/badge/-Computer%20vision-0a0e17?style=flat-square&labelColor=0a0e17&color=5aa2ff" alt="t"/>
-<img src="https://img.shields.io/badge/-Sustainable%20manufacturing-0a0e17?style=flat-square&labelColor=0a0e17&color=46d6c4" alt="t"/>
+<img src="https://img.shields.io/badge/-Bio--inspired%20design-0a0e17?style=flat-square&labelColor=0a0e17&color=5aa2ff" alt="t"/> <img src="https://img.shields.io/badge/-Machine%20learning-0a0e17?style=flat-square&labelColor=0a0e17&color=46d6c4" alt="t"/> <img src="https://img.shields.io/badge/-Extended%20Reality-0a0e17?style=flat-square&labelColor=0a0e17&color=e0b25e" alt="t"/> <img src="https://img.shields.io/badge/-Computer%20vision-0a0e17?style=flat-square&labelColor=0a0e17&color=5aa2ff" alt="t"/> <img src="https://img.shields.io/badge/-Sustainable%20manufacturing-0a0e17?style=flat-square&labelColor=0a0e17&color=46d6c4" alt="t"/>
 
 ---
 
@@ -77,7 +67,6 @@ Immersive AR/VR tools for visualising simulations, FEA and parametric models —
 | [**UR5e Circular Motor Recovery**](https://github.com/iamashkan/UR5e-Circular-Motor-Recovery) | A UR5e cobot disassembles failed motors and sorts every part into Reuse / Repair / Replace / Recycle | `ROS 2 Jazzy` `MoveIt 2` `Gazebo` `Unity` |
 | [**Battery Sorting Digital Twin**](https://github.com/iamashkan/Battery-Sorting-in-Digital-Twin) | Operational control twin for a battery-recovery micro-factory with digital product passports | `Unity` `FastAPI` `CV` `Streamlit` |
 | [**Defect Inspection Twin**](https://github.com/iamashkan/defect-inspection-digital-twin) | PyTorch surface-defect CV + Grad-CAM heatmaps → structured recovery decision | `PyTorch` `OpenCV` `ROS 2` |
-| [**Re-X Inspection Twin**](https://github.com/iamashkan/re-x-inspection-digital-twin) | Inspection pipeline aligned to the RESCu-M2 research theme | `PyTorch` `Grad-CAM` `ROS 2` |
 
 </details>
 
@@ -120,13 +109,7 @@ Immersive AR/VR tools for visualising simulations, FEA and parametric models —
 
 ### `06` · Certifications
 
-<img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford-8C1515?style=flat-square" alt="c"/>
-<img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-DeepLearning.AI-0A2A66?style=flat-square" alt="c"/>
-<img src="https://img.shields.io/badge/Deep%20Neural%20Networks%20w%2F%20PyTorch-IBM-0f62fe?style=flat-square&logo=ibm&logoColor=white" alt="c"/>
-<img src="https://img.shields.io/badge/Unity%20Mobile%20AR%20Development-Unity-111317?style=flat-square&logo=unity&logoColor=white" alt="c"/>
-<img src="https://img.shields.io/badge/WebXR%20%26%20Unity%2FUnreal%20XR-U%20of%20Michigan-00274C?style=flat-square" alt="c"/>
-<img src="https://img.shields.io/badge/Digital%20Mfg.%20Technologies-U%20of%20Michigan-00274C?style=flat-square" alt="c"/>
-<img src="https://img.shields.io/badge/Inventor%20Gold%20Medal-IFIA-e0b25e?style=flat-square" alt="c"/>
+<img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford-8C1515?style=flat-square" alt="c"/> <img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-DeepLearning.AI-0A2A66?style=flat-square" alt="c"/> <img src="https://img.shields.io/badge/Deep%20Neural%20Networks%20w%2F%20PyTorch-IBM-0f62fe?style=flat-square&logo=ibm&logoColor=white" alt="c"/> <img src="https://img.shields.io/badge/Unity%20Mobile%20AR%20Development-Unity-111317?style=flat-square&logo=unity&logoColor=white" alt="c"/> <img src="https://img.shields.io/badge/WebXR%20%26%20Unity%2FUnreal%20XR-U%20of%20Michigan-00274C?style=flat-square" alt="c"/> <img src="https://img.shields.io/badge/Digital%20Mfg.%20Technologies-U%20of%20Michigan-00274C?style=flat-square" alt="c"/> <img src="https://img.shields.io/badge/Inventor%20Gold%20Medal-IFIA-e0b25e?style=flat-square" alt="c"/>
 
 ---
 
@@ -138,14 +121,11 @@ Immersive AR/VR tools for visualising simulations, FEA and parametric models —
   <img alt="contribution snake" src="https://raw.githubusercontent.com/iamashkan/iamashkan/output/github-snake.svg" width="100%" />
 </picture>
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=iamashkan&hide_border=true&background=00000000&ring=5aa2ff&fire=e0b25e&currStreakLabel=5aa2ff&sideNums=46d6c4&sideLabels=46d6c4&dates=98a2b6&stroke=98a2b6&currStreakNum=eaeef6&dayLabels=98a2b6" alt="streak" width="460"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamashkan&bg_color=0a0e17&color=eaeef6&line=5aa2ff&point=46d6c4&area=true&area_color=5aa2ff&title_color=5aa2ff&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" width="95%"/>
 
-<br/><br/>
-
-*“The best way to recover value from the physical world is to first give it a digital mind.”*
+<sub>*“The best way to recover value from the physical world is to first give it a digital mind.”*</sub>
 
 </div>
