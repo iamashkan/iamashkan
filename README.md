@@ -22,7 +22,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [**UR5e Circular Motor Recovery**](https://github.com/iamashkan/UR5e-Circular-Motor-Recovery) | A UR5e cobot disassembles failed motors and sorts every part into Reuse / Repair / Replace / Recycle | `ROS 2 Jazzy` `MoveIt 2` `Gazebo` `Unity` |
-| [**Battery Sorting Digital Twin**](https://github.com/iamashkan/Battery-Sorting-in-Digital-Twin) | Operational control twin for a battery-recovery micro-factory with digital product passports | `Unity` `FastAPI` `CV` `Streamlit` |
+| [**Battery Sorting Digital Twin**](https://github.com/iamashkan/Battery-Sorting-in-Digital-Twin) | Re-X routing + digital product passports for end-of-life Li-ion, built against the **EU battery-passport mandate (Feb 2027)** | `Unity` `FastAPI` `CV` `Streamlit` |
 | [**Defect Inspection Twin**](https://github.com/iamashkan/defect-inspection-digital-twin) | PyTorch surface-defect CV + Grad-CAM heatmaps → structured recovery decision | `PyTorch` `OpenCV` `ROS 2` |
 
 </details>
@@ -33,8 +33,8 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Real-Time Digital Twin on iOS**](https://github.com/iamashkan/Real-Time-Digital-Twin-Generation-on-IOS) | Scans industrial rooms into live, queryable 3D twins bound to real devices | `Swift` `ARKit` `RoomPlan` `Core ML` |
-| [**Semantic Segmentation AR**](https://github.com/iamashkan/Semantic-Segmentation-using-Unity-and-Niantic-Lightship) | Environment-aware AR powered by real-time semantic segmentation | `Unity` `Niantic Lightship` |
+| [**Real-Time Digital Twin on iOS**](https://github.com/iamashkan/Real-Time-Digital-Twin-Generation-on-IOS) ⭐ | Scans an industrial site, then **binds each asset to a live device** over MQTT / Modbus / BACnet / OPC-UA | `Swift` `ARKit` `RoomPlan` `Core ML` |
+| [**Semantic Segmentation AR**](https://github.com/iamashkan/Semantic-Segmentation-using-Unity-and-Niantic-Lightship) | Environment-aware AR powered by real-time semantic segmentation <sub>(2024 · Lightship ARDK, since retired)</sub> | `Unity` `Niantic Lightship` |
 | [**WebAR Face Filter**](https://github.com/iamashkan/WebAR-FaceFilter) | Browser-native AR face tracking — no app install | `Unity` `Needle Engine` |
 
 </details>
@@ -45,8 +45,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Smart Highway Lighting**](https://github.com/iamashkan/Smart-Highway-Lighting) ⭐ | Emergency-aware adaptive motorway lighting — **up to 70% energy saved** | `Python` `STM32` `MQTT` `Unity 6` |
-| [**Solar Sentinel**](https://github.com/iamashkan/solar-sentinel) | Solar-farm twin: CV panel inspection + water-budgeted cleaning-robot dispatch | `Python` `ROS 2` `Streamlit` |
+| [**Smart Highway Lighting**](https://github.com/iamashkan/Smart-Highway-Lighting) | Adaptive motorway lighting that raises a full-brightness safety corridor for emergency vehicles | `Python` `STM32` `MQTT` `Unity 6` |
 | [**Market Price Bot**](https://github.com/iamashkan/CurrencyRateTelegramBot) | Serverless Telegram bot posting live FX / gold / crypto prices | `Cloudflare Workers` `JavaScript` |
 
 </details>
