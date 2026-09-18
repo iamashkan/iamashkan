@@ -13,7 +13,7 @@
 
 ---
 
-###  Selected Code
+###  Selected Work
 
 <details open>
 <summary><b>♻️ &nbsp;Circular-Economy Digital Twins</b></summary>
@@ -21,9 +21,9 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**UR5e Circular Motor Recovery**](https://github.com/iamashkan/UR5e-Circular-Motor-Recovery) | A UR5e cobot disassembles failed motors and sorts every part into Reuse / Repair / Replace / Recycle | `ROS 2 Jazzy` `MoveIt 2` `Gazebo` `Unity` |
-| [**Battery Sorting Digital Twin**](https://github.com/iamashkan/Battery-Sorting-in-Digital-Twin) | Re-X routing + digital product passports for end-of-life Li-ion, built against the **EU battery-passport mandate (Feb 2027)** | `Unity` `FastAPI` `CV` `Streamlit` |
-| [**Defect Inspection Twin**](https://github.com/iamashkan/defect-inspection-digital-twin) | PyTorch surface-defect CV + Grad-CAM heatmaps → structured recovery decision | `PyTorch` `OpenCV` `ROS 2` |
+| **UR5e Circular Motor Recovery** | A UR5e cobot disassembles failed motors and sorts every part into Reuse / Repair / Replace / Recycle — modelled per component, because the real question is the motor size above which this beats shredding | `ROS 2 Jazzy` `MoveIt 2` `Gazebo` `Unity` |
+| **Battery Sorting Digital Twin** | Re-X routing + digital product passports for end-of-life Li-ion, built against the **EU battery-passport mandate (Feb 2027)** | `Unity` `FastAPI` `CV` `Streamlit` |
+| **Defect Inspection Twin** | PyTorch surface-defect CV + Grad-CAM heatmaps → structured recovery decision | `PyTorch` `OpenCV` `ROS 2` |
 
 </details>
 
@@ -33,9 +33,9 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Real-Time Digital Twin on iOS**](https://github.com/iamashkan/Real-Time-Digital-Twin-Generation-on-IOS) ⭐ | Scans an industrial site, then **binds each asset to a live device** over MQTT / Modbus / BACnet / OPC-UA | `Swift` `ARKit` `RoomPlan` `Core ML` |
-| [**Semantic Segmentation AR**](https://github.com/iamashkan/Semantic-Segmentation-using-Unity-and-Niantic-Lightship) | Environment-aware AR powered by real-time semantic segmentation <sub>(2024 · Lightship ARDK, since retired)</sub> | `Unity` `Niantic Lightship` |
-| [**WebAR Face Filter**](https://github.com/iamashkan/WebAR-FaceFilter) | Browser-native AR face tracking — no app install | `Unity` `Needle Engine` |
+| **Real-Time Digital Twin on iOS** ⭐ | Scans an industrial site, then **binds each asset to a live device** over MQTT / Modbus / BACnet / OPC-UA. Measured data is kept strictly separate from AI-inferred data | `Swift` `ARKit` `RoomPlan` `Core ML` |
+| **Semantic Segmentation AR** | Environment-aware AR powered by real-time semantic segmentation <sub>(2024 · Lightship ARDK, since retired)</sub> | `Unity` `Niantic Lightship` |
+| [**WebAR Face Filter**](https://webar-facefilter-z1ejzsyz152zin.needle.run/) | Browser-native AR face tracking — no app install · *live demo* | `Unity` `Needle Engine` |
 
 </details>
 
@@ -45,7 +45,14 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Smart Highway Lighting**](https://github.com/iamashkan/Smart-Highway-Lighting) | Adaptive motorway lighting that raises a full-brightness safety corridor for emergency vehicles | `Python` `STM32` `MQTT` `Unity 6` |
-| [**Market Price Bot**](https://github.com/iamashkan/CurrencyRateTelegramBot) | Serverless Telegram bot posting live FX / gold / crypto prices | `Cloudflare Workers` `JavaScript` |
+| **Smart Highway Lighting** | Adaptive motorway lighting that raises a full-brightness safety corridor for emergency vehicles — argued on response time, not on kilowatt-hours | `Python` `STM32` `MQTT` `Unity 6` |
+| **Market Price Bot** | Serverless Telegram bot posting live FX / gold / crypto prices | `Cloudflare Workers` `JavaScript` |
 
 </details>
+
+---
+
+Source for these systems is kept in private repositories while the work is in progress.
+Full write-ups — including what each system could **not** do and why — are on the
+**[portfolio](https://iamashkan.github.io/portfolio/#systems)**. Happy to walk through any
+of them, or share a repository on request.
